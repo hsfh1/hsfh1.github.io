@@ -238,7 +238,7 @@
       style: basic
       url: http://www.yingjiesheng.com/
 
-  - category: 娱乐
+  - category: 动漫ACG
     links:
     - name: 优酷
       style: basic
@@ -299,7 +299,7 @@
 
 - section: byr
   categories:
-  - category: 北邮校园
+  - category: 国外视频
     links:
     - name: 北邮官网
       style: basic
