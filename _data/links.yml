@@ -1,6 +1,6 @@
 - section: public
   categories:
-  - category: 购物
+  - category: 优质推荐
     links:
     - name: 淘宝
       style: orange
@@ -60,7 +60,7 @@
       style: basic
       url: https://www.mi.com/
 
-  - category: 工具
+  - category: 名站推荐
     links:
     - name: '12306'
       icon: train red
@@ -116,7 +116,7 @@
       style: basic
       url: http://caiyunapp.com/map
 
-  - category: 社交
+  - category: 特色好站
     links:
     - name: 微博
       icon: weibo red
@@ -167,7 +167,7 @@
       style: basic
       url: https://github.com/
 
-  - category: 学习
+  - category: 综合论坛
     links:
     - name: Coursera
       style: basic
@@ -211,7 +211,7 @@
       style: black
       url: http://y-english.org/
 
-  - category: 求职
+  - category: 国内电影
     links:
     - name: LinkedIn
       icon: linkedin alternate blue
@@ -361,9 +361,9 @@
       style: basic
       url: http://buptclass.com/
 
-  - category: 论坛相关
+  - category: 在线视频
     links:
-    - name: 北邮人论坛
+    - name: 北邮仁
       style: teal
       url: http://bbs.byr.cn/
 
