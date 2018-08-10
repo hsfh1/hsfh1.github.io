@@ -1,6 +1,6 @@
 - section: public
   categories:
-  - category: 购物
+  - category: 优质推荐
     links:
     - name: 撸天堂
       style: basic
@@ -58,7 +58,7 @@
       style: basic
       url: http://www.avfriday8.info/
 
-  - category: 国内
+  - category: 名站推荐
     links:
     - name: 黄影院
       icon: train red
@@ -147,7 +147,7 @@
       style: basic
       url: http://www.pfdh2.xyz/
 
-  - category: 论坛博客
+  - category: 综合论坛
     links:
     - name: AV狼
       style: basic
@@ -189,7 +189,7 @@
       style: black
       url: http://tieba.baidu.com/f?kw=%B8%F4%B1%DA%B0%E0%B5%C4%C5%AE%CD%AC
 
-  - category: 美图小说
+  - category: 国内电影
     links:
     - name: 擦边图
       style: basic
@@ -215,7 +215,7 @@
       style: basic
       url: http://cc.feiyoo.com/photo.aspx
 
-  - category: 卡通动漫
+  - category: 动漫ACG
     links:
     - name: 久久动漫
       style: basic
@@ -260,7 +260,7 @@
 
 - section: 小说
   categories:
-  - category: 北邮校园
+  - category: 国外视频
     links:
     - name: 狼友小说
       style: basic
@@ -303,7 +303,7 @@
       url: http://lib.bupt.edu.cn/
 
 
-  - category: 虚拟现实
+  - category: 在线视频
     links:
     - name: 18fk
       style: teal
@@ -338,7 +338,7 @@
       url: https://www.pornhub.com/vr
 
 
-  - category: 在线工具
+  - category: 其他
     links:
     - name: 磁力在线转换
       style: basic
