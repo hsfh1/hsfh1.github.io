@@ -13,6 +13,10 @@
     - name: 福利直播
       style: basic
       url: http://www.jdbdha.club/
+      
+    - name: 国外直播
+      style: gules
+      url: http://nastygirltalk.com/
 
     - name: 大香蕉视频
       icon: banana yellow
