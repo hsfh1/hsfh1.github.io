@@ -45,49 +45,47 @@
 
   - category: 名站推荐
     links:
-    - name: 黄影院
+    - name: 草榴社区
       style: basic
-      url: http://www.huangyy.xyz/
+      url: https://cc.etet.men/
 
-    - name: DJAV在线
+    - name: 仙女宫
+      icon: pink
       style: basic
-      url: http://www.dj8.pw/
+      url: http://www.xiannvgong.com/
 
     - name: 色尼姑
       style: basic
       url: http://www.ccyy43.com/
 
-    - name: 酷热成人网
+    - name: 8X影库
       style: basic
-      url: http://www.kuresp.cn/
+      url: https://8xfr.com/
 
-    - name: 狼友之家
+    - name: 91自拍
       style: basic
-      url: http://www.slyzj1.xyz/
+      url: http://www.91pp91.com/
 
-    - name: 水汪汪
+    - name: ixx资源站
       style: basic
-      url: http://www.yzgkg.com/
+      url: http://www.ixxzy9.com/
 
-    - name: 微微视频
+    - name: 楼凤信息网
       style: basic
-      url: http://www.av5556.xyz/
+      url: http://wanhualu.net/
 
-    - name: 抖戳戳
-      style: basic
-      url: http://www.945xx.ml/
+    - name: 哦叉叉国产
+      style: red
+      url: http://18.179.54.34:3306/?f=apple
 
     - name: 狠狠撸在线
       style: basic
       url: http://www.hhlsp.cn/
 
-    - name: 香蕉网
+    - name: 蝌蚪窝
       style: basic
-      url: http://www.aa7bb.com/
+      url: http://www.sexx2015.com/
 
-    - name: 人人上影院
-      style: basic
-      url: http://www.whkfh.com/
 
   - category: 在线视频
     links:
