@@ -50,10 +50,13 @@
       url: https://cc.etet.men/
 
     - name: 仙女宫
-      icon: pink
-      style: basic
+      style: pink
       url: http://www.xiannvgong.com/
 
+    - name: 老司机视频
+      style: black
+      url: https://e.lsdh7.com/
+      
     - name: 色尼姑
       style: basic
       url: http://www.ccyy43.com/
@@ -406,10 +409,24 @@
     - name: 爱你啪啪啪
       style: basic
       url: http://www.ainipaav.com/
+      
+    - name: 我爱人妻
+      style: basic
+      url: http://www.woairq1.com/
 
+    - name: 人人看
+      style: basic
+      url: http://www.renrenkan.vip/
+    
+    - name: 春色唐朝
+      style: basic
+      url: http://www.cstc10.com/
+    
+    - name: 小小鸟在线
+      style: basic
+      url: http://www.xxna.top/
 
-
-  - category: 其他
+  - category: 其他    
     links:
     - name: BT磁力链
       style: basic
