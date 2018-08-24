@@ -46,6 +46,10 @@
     - name: 性吧
       style: basic
       url: http://luntan58.space/
+      
+    - name: 色友网
+      style: basic
+      url: https://dz.seyoudizhi.com/?huise
 
   - category: 名站推荐
     links:
